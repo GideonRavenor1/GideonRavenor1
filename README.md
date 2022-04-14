@@ -23,6 +23,7 @@
 ![ORMAR](https://img.shields.io/badge/-ORMAR-DD0031?style=flat-square&logo=ORMAR)\
 ![asyncpg](https://img.shields.io/badge/-asyncpg-blue?style=flat-square&logo=asyncpg)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 
 ***Databases:***
 
