@@ -1,3 +1,5 @@
+![Codewars](https://www.codewars.com/users/gideon_ravenor/badges/large)
+
 ## Hi, my name is Fedor, I live in St. Petersburg. Since 2021 I have been working as a backend developer. I will be glad to meet new people.
 
 <a href="https://t.me/Gideon_Ravenor">
