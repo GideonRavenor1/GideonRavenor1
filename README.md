@@ -1,5 +1,7 @@
 ![Codewars](https://www.codewars.com/users/gideon_ravenor/badges/large)
 
+![Leetcode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgideon-ravenor1&logo=leetcode&logoColor=yellow)
+
 ## Hi, my name is Fedor, I live in St. Petersburg. Since 2021 I have been working as a backend developer. I will be glad to meet new people.
 
 <a href="https://t.me/Gideon_Ravenor">
