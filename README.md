@@ -5,7 +5,7 @@
 ## Hi, my name is Fedor, I live in St. Petersburg. Since 2021 I have been working as a backend developer. I will be glad to meet new people.
 
 <a href="https://t.me/Gideon_Ravenor">
-  <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
+  <img align="left" alt="Telegram" width="22px" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png">
 </a>
 <a href="https://vk.com/frodo_rus">
   <img align="left" alt="Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/288px-VK.com-logo.svg.png" />
