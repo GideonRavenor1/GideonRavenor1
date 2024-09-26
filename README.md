@@ -2,7 +2,7 @@
 
 ![Leetcode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgideon-ravenor1&logo=leetcode&logoColor=yellow)
 
-## Hi, my name is Fedor, I live in St. Petersburg. Since 2021 I have been working as a backend developer. I will be glad to meet new people.
+## Hi, my name is Fedor, I live in St. Petersburg. I will be glad to meet new people.
 
 <a href="https://t.me/Gideon_Ravenor">
   <img align="left" alt="Telegram" width="22px" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png">
